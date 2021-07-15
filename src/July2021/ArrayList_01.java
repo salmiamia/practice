@@ -2,7 +2,7 @@ package July2021;
 
 import java.util.ArrayList;
 
-public class Exception_17 {
+public class ArrayList_01 {
     public static void main(String[] args) {
         ArrayList<int[]> list = createList();
         printList(list);
