@@ -2,7 +2,7 @@ package July2021;
 
 import java.util.ArrayList;
 
-public class Exception_16 {
+public class ArrayList_02 {
     public static LittleRedRidingHood hood = new LittleRedRidingHood();
     public static Grandmother grandmother = new Grandmother();
     public static Patty patty = new Patty();
