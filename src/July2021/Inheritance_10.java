@@ -1,6 +1,6 @@
 package July2021;
 
-public class Encapsulation_10 {
+public class Inheritance_10 {
     public static void main(String[] args) {
     }
 
