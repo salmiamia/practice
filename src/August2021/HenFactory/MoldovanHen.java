@@ -9,6 +9,6 @@ public class MoldovanHen extends Hen {
     }
 
     String getDescription() {
-        return super.getDescription() + " Моя страна - " + com.javarush.task.task14.task1408.Country.MOLDOVA + ". Я несу " + CountOfEggsPerMonth + " яиц в месяц.";
+        return super.getDescription() + " Моя страна - " + Country.MOLDOVA + ". Я несу " + CountOfEggsPerMonth + " яиц в месяц.";
     }
 }

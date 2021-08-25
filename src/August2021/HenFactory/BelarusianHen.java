@@ -9,7 +9,7 @@ public class BelarusianHen extends Hen {
     }
 
     String getDescription() {
-        return super.getDescription() + " Моя страна - " + com.javarush.task.task14.task1408.Country.BELARUS + ". Я несу " + CountOfEggsPerMonth + " яиц в месяц.";
+        return super.getDescription() + " Моя страна - " + Country.BELARUS + ". Я несу " + CountOfEggsPerMonth + " яиц в месяц.";
     }
 
 }
