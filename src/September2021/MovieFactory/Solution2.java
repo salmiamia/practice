@@ -1,4 +1,4 @@
-package September2021.Proger.MovieFactory;
+package September2021.MovieFactory;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
