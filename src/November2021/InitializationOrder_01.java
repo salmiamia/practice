@@ -1,6 +1,6 @@
-package October2021;
+package November2021;
 
-public class InitializationOrder_02 {
+public class InitializationOrder_01 {
     public static void main(String[] args) {
         new B(6);
     }
