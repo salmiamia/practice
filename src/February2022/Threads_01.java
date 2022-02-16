@@ -3,7 +3,7 @@ package February2022;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Multithreading_01 {
+public class Threads_01 {
     public static void main(String[] args) throws InterruptedException {
         PrintListThread firstThread = new PrintListThread("firstThread");
         PrintListThread secondThread = new PrintListThread("secondThread");
